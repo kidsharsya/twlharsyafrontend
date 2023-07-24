@@ -1,0 +1,68 @@
+.myBG {
+  height: 100vh;
+  background: url('../assets/image/bg11.png');
+  background-size: cover;
+}
+
+.BGpage {
+  background: url('../assets/image/bg11.png');
+  background-size: cover;
+}
+
+.intro {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.title {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.title1 {
+  font-size: 3rem;
+  font-weight: 800;
+  line-height: 1;
+  text-shadow: 2px 2px black;
+  letter-spacing: 4px;
+}
+
+.h2 {
+  text-shadow: 2px 2px black;
+}
+
+.homepage {
+  position: relative;
+}
+
+.homee {
+  position: relative;
+  width: 100%;
+  height: calc(100vh - 56px);
+  background-size: cover;
+  background-position: center;
+  margin-top: 56px;
+}
+
+.contenthome {
+  height: 600px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.content {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.images {
+  height: 500px;
+}
